@@ -6,6 +6,7 @@ class Person
   end
 
   def name
+    # getter method for name, retrieves the value of instance variable
     @name
   end
 
